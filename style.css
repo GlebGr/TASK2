@@ -1,0 +1,190 @@
+.jojo {
+    color:black;
+    
+}
+
+.text-center{
+    width: 720px;
+    margin-left: 800px;
+    margin-top: 140px;
+    margin-inline-end: 100px;
+    background-color: rgb(153, 153, 153) ;
+    height: 130px;
+    opacity:0.5;
+    filter:alpha(opacity=50);
+    
+    
+}
+
+.text-center2{
+    
+    background-color: rgb(153, 153, 153) ;
+    margin-inline-end: -360px;
+    margin-inline-start: 300px;
+    height: 140px;
+    margin-top: 60px;
+    opacity:0.5;
+    filter:alpha(opacity=50);
+    
+
+}
+
+
+.kaka img {
+    
+    padding-right: 915px;
+	margin-top: 260px;
+    
+}
+
+.lala {
+    background-color: aquamarine;   
+    margin-inline-start: 1100px;
+    margin-top: 50px;
+    height: 60px;
+    width: 420px;
+    opacity:0.5;
+filter:alpha(opacity=50);
+}
+
+.text-center3{
+    
+    background-color: rgb(153, 153, 153) ;
+    margin-inline-end: -360px;
+    margin-inline-start: 300px;
+    height: 140px;
+    margin-top: 60px;
+    opacity:0.5;
+    filter:alpha(opacity=50);
+}
+
+.nana img {
+padding-left:300px;
+padding-top:40px;
+opacity:0.5;
+    filter:alpha(opacity=50);
+}
+
+.text-centre4 {
+    margin-left: 490px;
+    margin-top: -200px;
+    height: 200px;
+    margin-inline-end: 1100px;
+    background-color: rgb(153, 153, 153) ;
+    opacity:0.5;
+    filter:alpha(opacity=50);
+}
+
+.nana2 img {
+    padding-left:840px ;
+    margin-top: -230px;
+    opacity:0.5;
+    filter:alpha(opacity=50);
+}
+
+.text-centre5 {
+
+height: 200px;
+margin-left: 1030px;
+margin-top: -225px;
+margin-inline-end: 570px;
+background-color: rgb(153, 153, 153) ;
+opacity:0.5;
+    filter:alpha(opacity=50);
+}
+
+.nana3 img {
+   margin-left: 1370px;
+   margin-top: -228px;
+   opacity:0.5;
+    filter:alpha(opacity=50);
+}
+
+main {
+    max-width: 1160px;
+}
+
+.lala2 {
+    background-color: aquamarine;   
+    margin-inline-start: 300px;
+    margin-top: 50px;
+    height: 60px;
+    width: 420px;
+    opacity:0.5;
+filter:alpha(opacity=50);
+}
+
+.text-center6{
+    
+    background-color: rgb(153, 153, 153) ;
+    margin-inline-end: -360px;
+    margin-inline-start: 300px;
+    height: 200px;
+    margin-top: 60px;
+    opacity:0.5;
+    filter:alpha(opacity=50);
+}
+
+.kaka2 img {
+    
+    padding-right: 915px;
+	margin-top: 110px;
+    opacity:0.5;
+    filter:alpha(opacity=50);
+    
+}
+.text8 {
+    background-color: rgb(153, 153, 153) ;
+    height: 150px;
+    width: 150px;
+    margin-left: 170px;
+    margin-top:-150px;
+    opacity:0.5;
+    filter:alpha(opacity=50);
+}
+
+.text9 {
+    background-color: rgb(153, 153, 153) ;
+    height: 150px;
+    width: 150px;
+    margin-left: 0px;
+    margin-top: 20px;
+    opacity:0.5;
+    filter:alpha(opacity=50);
+    
+}
+
+.kaka3 img {
+    
+    padding-left: 170px;
+	margin-top: -180px;
+    opacity:0.5;
+    filter:alpha(opacity=50);
+    
+}
+
+.text10 {
+    margin-left: 360px;
+    height: 320px;
+    margin-top: -345px;
+    opacity:0.5;
+    filter:alpha(opacity=50);
+}
+
+.text11 {
+    margin-left: 760px;
+    height: 320px;
+    margin-top: -320px;
+    opacity:0.5;
+    filter:alpha(opacity=50);
+}
+
+.footer {
+    text-align: center;
+    background-color: red;
+    height: 120px;
+    width: 1920px;
+    margin-top: 500px;
+    opacity:0.5;
+    filter:alpha(opacity=50);
+}
